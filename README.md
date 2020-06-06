@@ -3,7 +3,7 @@
 + PI Number Calculation
 ```
 PI number calculation using this methods:</br>
-Mont_carlo:</br>
+Monte_carlo:</br>
 ![](mont_carlo.jpg)
 </br></br>
 Basel:</br>
